@@ -8,3 +8,8 @@
 * Dosa batter
 * Karam
 * More oil
+
+## Egg Dosa
+* Dosa batter
+* 2 eggs
+* Karam and oil
